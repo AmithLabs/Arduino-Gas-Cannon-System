@@ -1,9 +1,9 @@
 # 🔥 Arduino Gas Cannon System
 
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://youtu.be/YOUR_VIDEO_ID)
+[![Watch the video](https://img.youtube.com/vi/UJwwn32LVV4/0.jpg)](https://youtu.be/UJwwn32LVV4)
 
 📺 **Watch the Full Build Video on YouTube**  
-https://youtu.be/YOUR_VIDEO_ID
+https://youtu.be/UJwwn32LVV4
 
 ---
 
